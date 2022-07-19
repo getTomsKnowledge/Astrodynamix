@@ -1,0 +1,16 @@
+# To-Do List (Astrodynamix Projects)
+
+Current:
+- Add:
+	> TLE (Two-Line Element) Scraper/Processor using NORAD data
+	> Piping demo (unrelated, from aerospace course)
+	> Gold Code Generator (applies GC Algorithm to generate 
+	unique pseudorandom sequence)
+	> Great Circle Calculator
+	> Pork-Chop Contour Plot Generator
+	> 2BP propagator
+	> Solvers: Gibbs/Gauss/Kepler/Lagrange/Euler/Leapfrog
+- Generate:
+	> Did you see the above list I still have to add?!
+- Edit:
+	> The list above the above list!
