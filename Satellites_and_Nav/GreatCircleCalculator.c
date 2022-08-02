@@ -42,7 +42,7 @@ int main() {
 
 	//open .txt file
 	FILE *fin = fopen(
-			"C://Users/14105/Desktop/UMD/FA21/ENAE380/Labs/Lab4/greatcircle.txt",
+			"C://Users/14105/Desktop/UMD/FA21/ENAE380/Labs/Lab4/dummyData_GreatCircle.txt",
 			"r");
 	if (!fin) {
 		printf("Error opening file");

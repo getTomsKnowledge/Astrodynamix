@@ -9,7 +9,8 @@ Current:
 	> Great Circle Calculator
 	> Pork-Chop Contour Plot Generator
 	> 2BP propagator
-	> Solvers: Gibbs/Gauss/Kepler/Lagrange/Euler/Leapfrog
+	> Solvers: Lambert/Gibbs/Kepler/Euler/Leapfrog
+	> Cartesian -> Keplerian; Keplerian -> Cartesian
 - Generate:
 	> Did you see the above list I still have to add?!
 - Edit:
