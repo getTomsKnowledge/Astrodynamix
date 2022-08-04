@@ -2,16 +2,19 @@
 
 Current:
 - Add:
-	> TLE (Two-Line Element) Scraper/Processor using NORAD data
 	> Piping demo (unrelated, from aerospace course)
-	> Gold Code Generator (applies GC Algorithm to generate 
-	unique pseudorandom sequence)
-	> Great Circle Calculator
 	> Pork-Chop Contour Plot Generator
 	> 2BP propagator
 	> Solvers: Lambert/Gibbs/Kepler/Euler/Leapfrog
 	> Cartesian -> Keplerian; Keplerian -> Cartesian
 - Generate:
-	> Did you see the above list I still have to add?!
+	> Open to suggestions
 - Edit:
-	> The list above the above list!
+	> Create an issue to let me know of any bugs
+
+Completed:
+
+- Adds:
+	> TLE Scraper/Processor
+	> Gold Code Generator
+	> Great-Circle Calculator
