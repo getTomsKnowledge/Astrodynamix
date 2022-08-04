@@ -29,8 +29,8 @@
 #include "Satellite.h"
 
 const int PUNCH_CARD_COLS = 80;
-const char inputFileName[65] = "C://Users/14105/Desktop/UMD/FA21/ENAE380/Labs/Lab5/TLE_Input.txt";
-const char outputFileName[14] = "TLE_Output.txt";
+const char inputFileName[35] = "../Satellites_and_Nav/TLE_Input.txt";
+const char outputFileName[36] = "../Satellites_and_Nav/TLE_Output.txt";
 
 int getTotalSats(FILE *fin);
 void setSatArray(FILE *fin, FILE *fout, struct Satellite satArray[]);
