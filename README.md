@@ -27,7 +27,7 @@ INCLUDES:
 	> Batch least squares
 	> Sequential Kalman filter
 - Relative orbits:
-	> Clohessy-Wiltshire-Hill approximations
+	> Hill-Clohessy-Wiltshire model
 - Changing orbits:
 	> two-impulse rendezvous
 - Signal Processing:
